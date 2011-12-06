@@ -1,4 +1,3 @@
-
 public class Edge {
 	private Stad dest;
 	private String namn;
